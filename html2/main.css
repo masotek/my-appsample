@@ -1,6 +1,6 @@
 div[class~="list"] {
 	background: grey;
 }
-a[href$="pdf"] {
+a[href*="http"] {
 	background: purple
 }
