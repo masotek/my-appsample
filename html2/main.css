@@ -1,6 +1,6 @@
-div[class] {
+div[class~="list"] {
 	background: grey;
 }
-div[id] {
-	background: yellow;
+a[href$="pdf"] {
+	background: purple
 }
