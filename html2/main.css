@@ -13,10 +13,7 @@ a:active {
 a:visited {
 	color: red;
 }
-#about-us p:nth-child(even) {
+#about-us p:nth-child(2n+1) {
 	background: red;
 	color: blue;
-}
-#about-us p:nth-child(odd) {
-	background: black;
 }
