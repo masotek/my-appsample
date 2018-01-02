@@ -1,20 +1,4 @@
-#about-us {
-	font-size: 30px;
+#header{
+	
+	background: -moz-linear-gradient(top, #aadddd 0%, #77aaaa 100%);
 }
-#about-us h2{
-	font-size: 4em;
-}
-#about-us p{
-	font-size: 10%;
-}
-div {
-	width: 100%;
-	height: 300px;
-	background: url(http://www.grylog.pl/wp-content/uploads/kolorowe-kulki.jpg), url(https://www.tenstickers.pl/naklejki-dekoracyjne/img/preview/naklejka-rozowe-kwadraty-7453.png);
-	background-repeat: no-repeat;
-	background-position: center, top left;
-	background-size: 300px, 100%;
-	background-color: #123456;
-	opacity: 0.7;
-	text-align: center;
-	}
