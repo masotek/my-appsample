@@ -7,3 +7,9 @@ a[href*="http"] {
 a:hover {
 	color: green;
 }
+a:active {
+	color: orange;
+}
+a:visited {
+	color: red
+}
