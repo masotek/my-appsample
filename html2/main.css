@@ -1,8 +1,4 @@
-p {
-color: red !important;
+#kinds-of-banana > p {
 
-}
-
-#about-us p {
-color: green;
+	color:pink;
 }
