@@ -13,7 +13,7 @@ a:active {
 a:visited {
 	color: red;
 }
-#about-us p:first-of-type {
+#about-us p:nth-child(3) {
 	background: red;
 	color: blue;
 }
