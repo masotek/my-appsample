@@ -7,3 +7,7 @@
 #about-us p{
 	font-size: 10%;
 }
+div {
+	background-color: grey;
+	border-radius: 10px 15px 20px 25px;
+}
