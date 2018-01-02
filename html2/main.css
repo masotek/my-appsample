@@ -13,10 +13,10 @@ a:active {
 a:visited {
 	color: red;
 }
-#about-us p:first-child {
+#about-us p:first-of-type {
 	background: red;
 	color: blue;
 }
-#about-us p:last-child {
+#about-us p:last-of-type {
 	background: black;
 }
