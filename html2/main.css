@@ -13,10 +13,10 @@ a:active {
 a:visited {
 	color: red;
 }
-#about-us p:nth-child(3) {
+#about-us p:nth-child(even) {
 	background: red;
 	color: blue;
 }
-#about-us p:last-of-type {
+#about-us p:nth-child(odd) {
 	background: black;
 }
