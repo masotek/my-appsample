@@ -8,6 +8,7 @@
 	font-size: 10%;
 }
 div {
-	background-image: url(http://www.grylog.pl/wp-content/uploads/kolorowe-kulki.jpg);
-	background-repeat: no-repeat;
+	background: url(http://www.grylog.pl/wp-content/uploads/kolorowe-kulki.jpg) no-repeat top center;
+	background-color: yellow;
+	background-size: 300px;
 }
