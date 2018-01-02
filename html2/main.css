@@ -1,6 +1,8 @@
-h1{
-		color: pink;
-		text-decoration: underline;
-		text-transform: uppercase;
+p {
+color: red !important;
 
+}
+
+#about-us p {
+color: green;
 }
