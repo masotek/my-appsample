@@ -1,3 +1,9 @@
-*{
-	background: grey
-	 }
+#about-us {
+	font-size: 30px;
+}
+#about-us h2{
+	font-size: 4em;
+}
+#about-us p{
+	font-size: 10%;
+}
